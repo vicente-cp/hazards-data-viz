@@ -4,8 +4,9 @@ The purpose of this repo is to show a bit of React + d3 + Next.js.
 
 # Getting Started
 To build this project, it's as easy as following the next steps, and you'll have a homepage as cute as this one.
+
 <p align="center">
-<img src="./hazards-homepage.png" alt="hazards-homepage" style="width:70%"
+<img src="./hazards-homepage.png" alt="hazards-homepage" style="width:90%"
 text-align="center"/>
 <p/>
 
@@ -34,6 +35,6 @@ You should have [Nodejs](https://nodejs.org/en/) and [Git](https://git-scm.com/d
       npm run dev
     ```
 
-2. Open the browser to http://localhost:3000/
+2. Open your browser to http://localhost:3000/
 
 3. Profit!

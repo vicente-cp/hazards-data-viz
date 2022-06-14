@@ -77,13 +77,14 @@ footer {
   bottom: 0;
   display: block;
   text-align: center;
-  width: 90%;
-
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
   padding: 30px 0;
   margin-top: 40px;
   height: 1.5em;
   color: #777;
-  position: relative;
+  position: absolute;
   border-top: 1px solid rgb(163, 163, 163);
 }
 

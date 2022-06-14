@@ -13,7 +13,8 @@
 
 .homediv {
   width: 70%;
-  margin: auto
+  margin: auto;
+  margin-top: 200px;
 }
 
 .btndiv {
